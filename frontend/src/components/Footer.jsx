@@ -11,7 +11,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-copy">
-        &copy; {new Date().getFullYear()} BookMyStay. All rights reserved.
+        &copy; {new Date().getFullYear()} BookMyStay. All rights reserved to Hemanth Sukumar.
       </div>
     </footer>
   );
